@@ -1,14 +1,14 @@
 # Skeleton-MixFormer
 This repo is the official implementation for Skeleton-MixFormer: <u>Multivariate Topology Representation for Skeleton-based Action Recognition<u>
 
-## Spetial for Reviewers
+## Special for Reviewers
 
 + ### Reviewer gDd4
   Parameters and FLOPs can refer to Parameters and FLOPs in the project folder
 + ### Reviewer UsoJ
-  Channel Reforming & Pretrained Model can be referred [here](https://drive.google.com/file/d/1J2vVDCQ9y_j2Ra07w92jY2rE6jq7y-XC/view?usp=sharing)
+  pre-trained model with supporting evidence can be referred [here](https://drive.google.com/file/d/1J2vVDCQ9y_j2Ra07w92jY2rE6jq7y-XC/view?usp=sharing)
 + ### Reviewer mxF7
-  Channel Reforming & Pretrained Model(1) can be referred [here](https://drive.google.com/file/d/1mgwNWIs1PikZD8wiyPMPx41sP-daE-MU/view?usp=sharing)
+  Channel Reforming & Pretrained Model can be referred [here](https://drive.google.com/file/d/1mgwNWIs1PikZD8wiyPMPx41sP-daE-MU/view?usp=sharing)
 
 
 
