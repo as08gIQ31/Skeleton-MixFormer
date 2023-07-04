@@ -6,7 +6,7 @@ This repo is the official implementation for Skeleton-MixFormer: <u>Multivariate
 + ### Reviewer gDd4
   Parameters and FLOPs can refer to Parameters and FLOPs in the project folder
 + ### Reviewer UsoJ
-  Pre-trained model with supporting evidence can be referred [here](https://drive.google.com/drive/folders/1yxZVwXoScqwfDwDOwf79s-Ug7kx1Q_hX?usp=sharing)
+  Pre-trained model with supporting evidence can be referred [here](https://drive.google.com/drive/folders/1nPnZWoq8xhVZs8s36ZVN7lkT-wLDkOLY?usp=sharing)
 + ### Reviewer mxF7
   Channel Reforming & Pretrained Model can be referred [here](https://drive.google.com/drive/folders/1L_Z_p2cj9HRU3dal2znMZCYptHficF-Q?usp=sharing)
 
