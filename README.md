@@ -4,7 +4,7 @@ This repo is the official implementation for Skeleton-MixFormer: <u>Multivariate
 ## Special for Reviewers
 
 + ### Reviewer gDd4
-  Parameters and FLOPs can refer to Parameters and FLOPs in the project folder
+  Parameters and Floating Point Operations can refer to Parameters and FLOPs in the project folder
 + ### Reviewer UsoJ
   Pre-trained model with supporting evidence can be referred [here](https://drive.google.com/drive/folders/1690ae4E158cI-UYxBEoGBSdO4gW-ncf_?usp=sharing)
 + ### Reviewer mxF7
